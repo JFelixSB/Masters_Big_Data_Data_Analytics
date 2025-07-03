@@ -1,0 +1,74 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "user": "alice",
+      "text": "Just had the best coffee ever!",
+      "timestamp": "2025-07-02T08:15:30Z",
+      "likes": 12
+    },
+    {
+      "id": 2,
+      "user": "bob",
+      "text": "RT @charlie: Spark + Python = ❤️",
+      "timestamp": "2025-07-02T09:00:10Z",
+      "likes": 34
+    },
+    {
+      "id": 3,
+      "user": "charlie",
+      "text": "Preparing my talk on Big Data Analytics 📊",
+      "timestamp": "2025-07-02T09:30:45Z",
+      "likes": 47
+    },
+    {
+      "id": 4,
+      "user": "danielle",
+      "text": "Sunny day in Montreal! ☀️ #summer",
+      "timestamp": "2025-07-02T10:05:00Z",
+      "likes": 26
+    },
+    {
+      "id": 5,
+      "user": "eve",
+      "text": "Does anyone know a good PySpark tutorial?",
+      "timestamp": "2025-07-02T10:45:12Z",
+      "likes": 15
+    },
+    {
+      "id": 6,
+      "user": "frank",
+      "text": "Deploying my first Spark job on Kubernetes.",
+      "timestamp": "2025-07-02T11:10:55Z",
+      "likes": 8
+    },
+    {
+      "id": 7,
+      "user": "grace",
+      "text": "Lunch break! 🍔 #foodie",
+      "timestamp": "2025-07-02T12:00:00Z",
+      "likes": 19
+    },
+    {
+      "id": 8,
+      "user": "heidi",
+      "text": "Debugging streaming errors… 🐛",
+      "timestamp": "2025-07-02T12:30:15Z",
+      "likes": 23
+    },
+    {
+      "id": 9,
+      "user": "ivan",
+      "text": "Schema evolution in Delta Lake is magic ✨",
+      "timestamp": "2025-07-02T13:05:40Z",
+      "likes": 31
+    },
+    {
+      "id": 10,
+      "user": "judy",
+      "text": "Wrapping up today's notebook. #analytics",
+      "timestamp": "2025-07-02T13:45:22Z",
+      "likes": 29
+    }
+  ]
+}
